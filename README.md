@@ -15,30 +15,6 @@ explorations. Swap out placeholders with your own details and let’s get hackin
 
 ---
 
-## 🚀 Quick Stats & Badges
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=NError404F&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/NError404F/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NError404F&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  </a>
-  <a href="https://github.com/NError404F/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NError404F&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-  </a>
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=NError404F&bg_color=0D1117&color=58A6FF&line=true&point=true&hide_border=true" alt="Weekly Activity Graph"/>
-</div>
-
----
-
 ## 🌐 Let’s Connect
 
 <div align="center">
@@ -49,6 +25,5 @@ explorations. Swap out placeholders with your own details and let’s get hackin
 
 ---
 
-> Proudly built with 💻, ☕ and 🚬
+Proudly built with 💻, ☕ and 🚬
 
-<!-- Proudly built with 💻, ☕ and 🚬-->
