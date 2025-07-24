@@ -1,37 +1,34 @@
 <!--
 ===============================================================================
-⭐ Hi there, I’m [Your Name]! ⭐
+💥 Hi there, I’m [Your Name]! 💥
 -------------------------------------------------------------------------------
-This README is generated with love using badges, GitHub Actions, and dynamic
-stats cards. Enjoy, and feel free to customize it further!
+This README is dialed in on open‑source security, Flask‑powered webapps, and AI
+explorations. Swap out placeholders with your own details and let’s get hacking!
 ===============================================================================
 -->
 
 <div align="center">
   <h1>👋 Hi, I’m [Your Name]</h1>
-  <p>🔭 I’m a freelance Python/IT engineer building awesome things.<br/>
-     🌱 I’m currently mastering advanced Python, cloud‑native microservices, and ML Ops.<br/>
-     💬 Ask me about Python, Docker, Kubernetes, or general IT topics.<br/>
-     📫 How to reach me: <a href="mailto:youremail@example.com">youremail@example.com</a><br/>
-     ⚡ Fun fact: I 💖 open‑source and love a good late‑night coding session.</p>
+  <p>🔭 I’m a Python & Web Developer obsessed with open‑source security tools.<br/>
+     🌱 I’m currently building Flask webapps and experimenting with AI/ML.<br/>
+     🔒 Ask me about pentesting frameworks, secure coding, or Flask best practices.<br/>
+     📫 Reach me: <a href="mailto:youremail@example.com">youremail@example.com</a><br/>
+     ⚡ Fun fact: I once automated a CTF challenge in under an hour!</p>
 </div>
 
 ---
 
-## 🚀 Quick Badges
+## 🚀 Quick Stats & Badges
 
 <div align="center">
-  <!-- GitHub stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   </a>
-  <!-- Top languages -->
   <a href="https://github.com/YOUR_USERNAME/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   </a>
-  <!-- Streak stats -->
   <a href="https://github.com/YOUR_USERNAME/github-readme-streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
   </a>
 </div>
 
@@ -39,80 +36,73 @@ stats cards. Enjoy, and feel free to customize it further!
 
 ## 🛠️ My Tech Stack
 
-| **Languages** | **Frameworks & Tools** | **Cloud & DevOps** | **Data & AI**      |
-| :-----------: | :--------------------: | :---------------: | :----------------: |
-| Python 🐍     | Django 🌐              | Docker 🐳         | Pandas 🐼          |
-| JavaScript ⚡  | FastAPI 🚄             | Kubernetes ☸️     | NumPy ⚛️          |
-| Bash 🐚       | React ⚛️               | AWS ☁️            | scikit‑learn 🤖     |
-| SQL 🗄️        | Node.js 🟢             | Git & GitHub 🔧   | TensorFlow 💙      |
+| **Languages**     | **Frameworks & Tools**     | **Security & DevOps**   | **AI & Data**        |
+| :---------------: | :------------------------: | :---------------------: | :------------------: |
+| Python 🐍         | Flask 🔶                   | Kali Linux 🐧           | TensorFlow 💙        |
+| JavaScript ⚡      | FastAPI 🚀                 | OWASP ZAP 🛡️            | PyTorch 🔥          |
+| Bash 🐚           | React ⚛️                   | Docker 🐳               | scikit‑learn 🤖      |
+| SQL & NoSQL 🗄️    | Jinja2 & WTForms           | GitHub Actions 🔧       | Pandas 🐼            |
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Open‑Source Projects
 
-### [Project Alpha](https://github.com/YOUR_USERNAME/project-alpha)  
-> A high‑throughput ETL pipeline in Python with Airflow and Docker, processing millions of records daily.
+### 🔐 [SecuScan](https://github.com/YOUR_USERNAME/secuscan)  
+> A modular network vulnerability scanner written in Python.
 
-- 🔧 **Tech:** Python, Apache Airflow, Docker, PostgreSQL  
-- 📈 **Highlights:**  
-  - Deployed to Kubernetes with Helm  
-  - End‑to‑end tests in GitHub Actions  
-  - Real‑time monitoring with Prometheus & Grafana  
-
-### [Beta Dashboard](https://github.com/YOUR_USERNAME/beta-dashboard)  
-> Interactive analytics dashboard for sales data, built with React and FastAPI.
-
-- 🔧 **Tech:** React, FastAPI, Plotly, Docker  
+- 🔧 **Tech:** Python, asyncio, Rich, YAML configs  
 - 🚀 **Features:**  
-  - Auth with OAuth2  
-  - Live data via WebSockets  
-  - Responsive design & PWA setup  
+  - Plugin architecture for custom checks  
+  - Fast async scanning with rate‑limiting  
+  - Export results to JSON, HTML & Markdown
 
-### [Gamma Chatbot](https://github.com/YOUR_USERNAME/gamma-chatbot)  
-> AI‑powered chatbot for customer support, using Rasa and custom NLU models.
+### 🌐 [FlaskVault](https://github.com/YOUR_USERNAME/flaskvault)  
+> Secure user‑management & auth boilerplate for Flask apps.
 
-- 🔧 **Tech:** Rasa, Python, Docker, AWS Lambda  
-- 🤖 **Capabilities:**  
-  - Intent recognition & slot filling  
-  - Multi‑language support  
-  - Integrated with Slack & Telegram
+- 🔧 **Tech:** Flask, SQLAlchemy, JWT, bcrypt  
+- 🔒 **Capabilities:**  
+  - Role‑based access control (RBAC)  
+  - Rate limiting & brute‑force protection  
+  - CSRF/XSS mitigation built‑in
+
+### 🤖 [AI‑CTF‑Bot](https://github.com/YOUR_USERNAME/ai-ctf-bot)  
+> Experimental AI agent that solves simple CTF web challenges.
+
+- 🔧 **Tech:** Python, OpenAI API, BeautifulSoup, Selenium  
+- 🤖 **Abilities:**  
+  - Auto‑detects injection points  
+  - Crafts payloads using GPT models  
+  - Logs step‑by‑step reasoning for auditing
 
 ---
 
 ## 📈 GitHub Activity
 
-<!--
-Use the GitHub Readme Activity Graph action:
-https://github.com/ashutosh00710/github-readme-activity-graph
--->
 <div align="center">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&bg_color=0D1117&color=58A6FF&line=true&point=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&bg_color=0D1117&color=58A6FF&line=true&point=true&hide_border=true" alt="Weekly Activity Graph"/>
 </div>
 
 ---
 
-## 📝 Blog & Publications
+## 📚 Blog & Tutorials
 
-<!-- 
-If you write technical articles, replace the URLs below.
--->
-- 📝 “[Deep Dive into Python AsyncIO](https://yourblog.com/python-asyncio)”
-- 📝 “[Containerizing Django Apps](https://yourblog.com/docker-django)”
-- 📝 “[Building Scalable APIs with FastAPI](https://yourblog.com/fastapi-scalability)”
+- 📝 “[Building a Modular Python Vulnerability Scanner](https://yourblog.com/modular-vuln-scanner)”
+- 📝 “[Secure Flask Patterns You Should Know](https://yourblog.com/secure-flask)”
+- 📝 “[Using AI to Automate CTF Challenges](https://yourblog.com/ai-ctf-automation)”
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Let’s Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2?logo=twitter" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2?logo=twitter" alt="Twitter"/></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-✉️-EA4335?logo=gmail" alt="Email"/></a>
-  <a href="https://calendly.com/YOUR_LINK" target="_blank"><img src="https://img.shields.io/badge/Calendly-Schedule-green?logo=calendly" alt="Calendly"/></a>
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?logo=github" alt="GitHub"/></a>
 </div>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Security is not a product, but a process.” – Bruce Schneier
 
-<!-- Proudly built with GitHub Profile README Generator -->
+<!-- Proudly built with 💻, ☕ and 🚬-->
