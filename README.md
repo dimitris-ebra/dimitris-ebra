@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on building a secret forum/community 🤫<br>📚 I am studying application and web development 
+🔭 I am currently building free apps for privacy for the extra paranoid :)<br>📚 I am studying computer science
 
 
 ## 🌐 Socials:
